@@ -7,9 +7,11 @@ D:\Git\DevFreela.Payments\DevFreela.Payments.API\bin\Debug\net5.0\DevFreela.Paym
 D:\Git\DevFreela.Payments\DevFreela.Payments.API\bin\Debug\net5.0\DevFreela.Payments.API.dll
 D:\Git\DevFreela.Payments\DevFreela.Payments.API\bin\Debug\net5.0\DevFreela.Payments.API.pdb
 D:\Git\DevFreela.Payments\DevFreela.Payments.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Git\DevFreela.Payments\DevFreela.Payments.API\bin\Debug\net5.0\RabbitMQ.Client.dll
 D:\Git\DevFreela.Payments\DevFreela.Payments.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Git\DevFreela.Payments\DevFreela.Payments.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Git\DevFreela.Payments\DevFreela.Payments.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\DevFreela.Payments\DevFreela.Payments.API\bin\Debug\net5.0\System.Threading.Channels.dll
 D:\Git\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net5.0\DevFreela.Payments.API.csproj.AssemblyReference.cache
 D:\Git\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net5.0\DevFreela.Payments.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\Git\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net5.0\DevFreela.Payments.API.AssemblyInfoInputs.cache
